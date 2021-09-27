@@ -757,3 +757,11 @@
 - [ ] Right-click the slicer and select Slicer Settings.
 - [ ] Merge the two PivotTables, right-click the merged PivotTable, and select Combine Slicer.
 - [ ] Right-click the slicer and select Report Connections, or click Report Connections on the Slicer tab.
+
+#### Q93. Cell A2 contains the value 8 and cell B2 contains the value 9. What happens when cells A2 and B2 are merged and then unmerged?
+
+- [x] Cell A2 contains the value 8 and cell B2 is empty.
+- [ ] Cell A2 contains the value 17 and cell B2 is empty.
+- [ ] Both values are lost.
+- [ ] Cell A2 contains the value 8 and cell B2 contains the value 9.
+
